@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Drecera de Codex";
+CFBundleGetInfoString = "Codex 148.0.7778.179, Copyright 2026 Els autors de Codex. Tots els drets reservats.";
+NSAudioCaptureUsageDescription = "Un cop Codex tingui accés, els llocs web et podran demanar accés.";
+NSBluetoothAlwaysUsageDescription = "Un cop Codex tingui accés, els llocs web et podran demanar accés.";
+NSBluetoothPeripheralUsageDescription = "Un cop Codex tingui accés, els llocs web et podran demanar accés.";
+NSCameraUsageDescription = "Un cop Codex tingui accés, els llocs web et podran demanar accés.";
+NSHumanReadableCopyright = "Copyright 2026 Els autors de Codex. Tots els drets reservats.";
+NSLocalNetworkUsageDescription = "Això et permetrà seleccionar un dels dispositius disponibles i mostrar-hi contingut.";
+NSLocationUsageDescription = "Un cop Codex tingui accés, els llocs web et podran demanar accés.";
+NSMicrophoneUsageDescription = "Un cop Codex tingui accés, els llocs web et podran demanar accés.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Un cop Codex tingui accés, els llocs web et podran demanar accés.";

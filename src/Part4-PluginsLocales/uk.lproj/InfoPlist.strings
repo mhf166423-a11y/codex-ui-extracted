@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Ярлик Codex";
+CFBundleGetInfoString = "Codex 148.0.7778.179, Авторське право 2026 Автори Codex. Усі права захищено.";
+NSAudioCaptureUsageDescription = "Коли Codex отримає доступ, веб-сайти зможуть надсилати вам запити на доступ.";
+NSBluetoothAlwaysUsageDescription = "Коли Codex отримає доступ, веб-сайти зможуть надсилати вам запити на доступ.";
+NSBluetoothPeripheralUsageDescription = "Коли Codex отримає доступ, веб-сайти зможуть надсилати вам запити на доступ.";
+NSCameraUsageDescription = "Коли Codex отримає доступ, веб-сайти зможуть надсилати вам запити на доступ.";
+NSHumanReadableCopyright = "Авторське право 2026 Автори Codex. Усі права захищено.";
+NSLocalNetworkUsageDescription = "Ви зможете вибирати доступні пристрої і показувати на них контент.";
+NSLocationUsageDescription = "Коли Codex отримає доступ, веб-сайти зможуть надсилати вам запити на доступ.";
+NSMicrophoneUsageDescription = "Коли Codex отримає доступ, веб-сайти зможуть надсилати вам запити на доступ.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Коли Codex отримає доступ, веб-сайти зможуть надсилати вам запити на доступ.";

@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Codex のショートカット";
+CFBundleGetInfoString = "Codex 148.0.7778.179, Copyright 2026 The Codex Authors. All rights reserved.";
+NSAudioCaptureUsageDescription = "Codex にアクセスを許可すると、ウェブサイトからアクセスをリクエストできるようになります。";
+NSBluetoothAlwaysUsageDescription = "Codex にアクセスを許可すると、ウェブサイトからアクセスをリクエストできるようになります。";
+NSBluetoothPeripheralUsageDescription = "Codex にアクセスを許可すると、ウェブサイトからアクセスをリクエストできるようになります。";
+NSCameraUsageDescription = "Codex にアクセスを許可すると、ウェブサイトからアクセスをリクエストできるようになります。";
+NSHumanReadableCopyright = "Copyright 2026 The Codex Authors. All rights reserved.";
+NSLocalNetworkUsageDescription = "これにより、利用可能なデバイスから選択してコンテンツを表示できるようになります。";
+NSLocationUsageDescription = "Codex にアクセスを許可すると、ウェブサイトからアクセスをリクエストできるようになります。";
+NSMicrophoneUsageDescription = "Codex にアクセスを許可すると、ウェブサイトからアクセスをリクエストできるようになります。";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Codex にアクセスを許可すると、ウェブサイトからアクセスをリクエストできるようになります。";

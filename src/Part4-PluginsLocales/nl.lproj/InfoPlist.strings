@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Codex-snelkoppeling";
+CFBundleGetInfoString = "Codex 148.0.7778.179, Copyright 2026 De auteurs van Codex. Alle rechten voorbehouden.";
+NSAudioCaptureUsageDescription = "Zodra Codex toegang heeft, kunnen websites je om toegang vragen.";
+NSBluetoothAlwaysUsageDescription = "Zodra Codex toegang heeft, kunnen websites je om toegang vragen.";
+NSBluetoothPeripheralUsageDescription = "Zodra Codex toegang heeft, kunnen websites je om toegang vragen.";
+NSCameraUsageDescription = "Zodra Codex toegang heeft, kunnen websites je om toegang vragen.";
+NSHumanReadableCopyright = "Copyright 2026 De auteurs van Codex. Alle rechten voorbehouden.";
+NSLocalNetworkUsageDescription = "Hiermee kun je uit beschikbare apparaten kiezen en de content erop weergeven.";
+NSLocationUsageDescription = "Zodra Codex toegang heeft, kunnen websites je om toegang vragen.";
+NSMicrophoneUsageDescription = "Zodra Codex toegang heeft, kunnen websites je om toegang vragen.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Zodra Codex toegang heeft, kunnen websites je om toegang vragen.";

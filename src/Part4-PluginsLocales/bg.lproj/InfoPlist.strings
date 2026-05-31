@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Пряк път към Codex";
+CFBundleGetInfoString = "Codex 148.0.7778.179, Авторски права 2026 Авторите на Codex. Всички права запазени.";
+NSAudioCaptureUsageDescription = "След като Codex получи достъп, уебсайтовете ще могат да искат достъп от вас.";
+NSBluetoothAlwaysUsageDescription = "След като Codex получи достъп, уебсайтовете ще могат да искат достъп от вас.";
+NSBluetoothPeripheralUsageDescription = "След като Codex получи достъп, уебсайтовете ще могат да искат достъп от вас.";
+NSCameraUsageDescription = "След като Codex получи достъп, уебсайтовете ще могат да искат достъп от вас.";
+NSHumanReadableCopyright = "Авторски права 2026 Авторите на Codex. Всички права запазени.";
+NSLocalNetworkUsageDescription = "Това ще ви даде възможност да избирате от наличните устройства и да показвате съдържание на тях.";
+NSLocationUsageDescription = "След като Codex получи достъп, уебсайтовете ще могат да искат достъп от вас.";
+NSMicrophoneUsageDescription = "След като Codex получи достъп, уебсайтовете ще могат да искат достъп от вас.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "След като Codex получи достъп, уебсайтовете ще могат да искат достъп от вас.";

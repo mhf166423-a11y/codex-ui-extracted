@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Codex 捷徑";
+CFBundleGetInfoString = "Codex 148.0.7778.179, Copyright 2026 The Codex Authors. 保留所有權利。";
+NSAudioCaptureUsageDescription = "Codex 取得存取權後，網站將可要求你授予存取權。";
+NSBluetoothAlwaysUsageDescription = "Codex 取得存取權後，網站將可要求你授予存取權。";
+NSBluetoothPeripheralUsageDescription = "Codex 取得存取權後，網站將可要求你授予存取權。";
+NSCameraUsageDescription = "Codex 取得存取權後，網站將可要求你授予存取權。";
+NSHumanReadableCopyright = "Copyright 2026 The Codex Authors. 保留所有權利。";
+NSLocalNetworkUsageDescription = "這樣你就能選取可用裝置，並在這些裝置上顯示內容。";
+NSLocationUsageDescription = "Codex 取得存取權後，網站將可要求你授予存取權。";
+NSMicrophoneUsageDescription = "Codex 取得存取權後，網站將可要求你授予存取權。";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Codex 取得存取權後，網站將可要求你授予存取權。";

@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "„Codex“ spartusis klavišas";
+CFBundleGetInfoString = "Codex 148.0.7778.179, Autorių teisės priklauso „Codex“ autoriams, 2026 m. Visos teisės saugomos.";
+NSAudioCaptureUsageDescription = "Kai „Codex“ galės pasiekti duomenis, svetainės taip pat galės prašyti suteikti leidimą juos pasiekti.";
+NSBluetoothAlwaysUsageDescription = "Kai „Codex“ galės pasiekti duomenis, svetainės taip pat galės prašyti suteikti leidimą juos pasiekti.";
+NSBluetoothPeripheralUsageDescription = "Kai „Codex“ galės pasiekti duomenis, svetainės taip pat galės prašyti suteikti leidimą juos pasiekti.";
+NSCameraUsageDescription = "Kai „Codex“ galės pasiekti duomenis, svetainės taip pat galės prašyti suteikti leidimą juos pasiekti.";
+NSHumanReadableCopyright = "Autorių teisės priklauso „Codex“ autoriams, 2026 m. Visos teisės saugomos.";
+NSLocalNetworkUsageDescription = "Galėsite pasirinkti iš pasiekiamų įrenginių ir pateikti turinį juose.";
+NSLocationUsageDescription = "Kai „Codex“ galės pasiekti duomenis, svetainės taip pat galės prašyti suteikti leidimą juos pasiekti.";
+NSMicrophoneUsageDescription = "Kai „Codex“ galės pasiekti duomenis, svetainės taip pat galės prašyti suteikti leidimą juos pasiekti.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Kai „Codex“ galės pasiekti duomenis, svetainės taip pat galės prašyti suteikti leidimą juos pasiekti.";

@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Codex-pikanäppäin";
+CFBundleGetInfoString = "Codex 148.0.7778.179, Copyright 2026 The Codex Authors. Kaikki oikeudet pidätetään.";
+NSAudioCaptureUsageDescription = "Kun Codexilla on käyttöoikeus, sivustot voivat pyytää sitä sinulta.";
+NSBluetoothAlwaysUsageDescription = "Kun Codexilla on käyttöoikeus, sivustot voivat pyytää sitä sinulta.";
+NSBluetoothPeripheralUsageDescription = "Kun Codexilla on käyttöoikeus, sivustot voivat pyytää sitä sinulta.";
+NSCameraUsageDescription = "Kun Codexilla on käyttöoikeus, sivustot voivat pyytää sitä sinulta.";
+NSHumanReadableCopyright = "Copyright 2026 The Codex Authors. Kaikki oikeudet pidätetään.";
+NSLocalNetworkUsageDescription = "Näin voit valita käytettävissä olevista laitteista ja näyttää niillä sisältöä.";
+NSLocationUsageDescription = "Kun Codexilla on käyttöoikeus, sivustot voivat pyytää sitä sinulta.";
+NSMicrophoneUsageDescription = "Kun Codexilla on käyttöoikeus, sivustot voivat pyytää sitä sinulta.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Kun Codexilla on käyttöoikeus, sivustot voivat pyytää sitä sinulta.";

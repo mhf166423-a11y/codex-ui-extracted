@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Codex-এর শর্টকার্ট";
+CFBundleGetInfoString = "Codex 148.0.7778.179, কপিরাইট 2026 Codex রচয়িতা৷ সর্বস্বত্ত্ব সংরক্ষিত৷";
+NSAudioCaptureUsageDescription = "Codex অ্যাক্সেস পেলেই, ওয়েবসাইটগুলি আপনাকে অ্যাক্সেসের অনুরোধ করতে পারবে।";
+NSBluetoothAlwaysUsageDescription = "Codex অ্যাক্সেস পেলেই, ওয়েবসাইটগুলি আপনাকে অ্যাক্সেসের অনুরোধ করতে পারবে।";
+NSBluetoothPeripheralUsageDescription = "Codex অ্যাক্সেস পেলেই, ওয়েবসাইটগুলি আপনাকে অ্যাক্সেসের অনুরোধ করতে পারবে।";
+NSCameraUsageDescription = "Codex অ্যাক্সেস পেলেই, ওয়েবসাইটগুলি আপনাকে অ্যাক্সেসের অনুরোধ করতে পারবে।";
+NSHumanReadableCopyright = "কপিরাইট 2026 Codex রচয়িতা৷ সর্বস্বত্ত্ব সংরক্ষিত৷";
+NSLocalNetworkUsageDescription = "এর ফলে আপনি উপলভ্য ডিভাইসগুলি থেকে বেছে নিতে পারবেন এবং সেগুলিতে কন্টেন্ট দেখাতে পারবেন।";
+NSLocationUsageDescription = "Codex অ্যাক্সেস পেলেই, ওয়েবসাইটগুলি আপনাকে অ্যাক্সেসের অনুরোধ করতে পারবে।";
+NSMicrophoneUsageDescription = "Codex অ্যাক্সেস পেলেই, ওয়েবসাইটগুলি আপনাকে অ্যাক্সেসের অনুরোধ করতে পারবে।";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Codex অ্যাক্সেস পেলেই, ওয়েবসাইটগুলি আপনাকে অ্যাক্সেসের অনুরোধ করতে পারবে।";

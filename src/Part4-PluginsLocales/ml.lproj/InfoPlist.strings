@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Codex കുറുക്കുവഴി";
+CFBundleGetInfoString = "Codex 148.0.7778.179, പകർപ്പവകാശം 2026 Codex രചയിതാക്കൾ. എല്ലാ അവകാശങ്ങളും നിക്ഷിപ്‌തം.";
+NSAudioCaptureUsageDescription = "Codex-ത്തിന് ആക്‌സസ് ലഭിച്ചുകഴിഞ്ഞാൽ, വെബ്‌സൈറ്റുകൾക്ക് നിങ്ങളോട് ആക്‌സസ് ചോദിക്കാനാകും.";
+NSBluetoothAlwaysUsageDescription = "Codex-ത്തിന് ആക്‌സസ് ലഭിച്ചുകഴിഞ്ഞാൽ, വെബ്‌സൈറ്റുകൾക്ക് നിങ്ങളോട് ആക്‌സസ് ചോദിക്കാനാകും.";
+NSBluetoothPeripheralUsageDescription = "Codex-ത്തിന് ആക്‌സസ് ലഭിച്ചുകഴിഞ്ഞാൽ, വെബ്‌സൈറ്റുകൾക്ക് നിങ്ങളോട് ആക്‌സസ് ചോദിക്കാനാകും.";
+NSCameraUsageDescription = "Codex-ത്തിന് ആക്‌സസ് ലഭിച്ചുകഴിഞ്ഞാൽ, വെബ്‌സൈറ്റുകൾക്ക് നിങ്ങളോട് ആക്‌സസ് ചോദിക്കാനാകും.";
+NSHumanReadableCopyright = "പകർപ്പവകാശം 2026 Codex രചയിതാക്കൾ. എല്ലാ അവകാശങ്ങളും നിക്ഷിപ്‌തം.";
+NSLocalNetworkUsageDescription = "ലഭ്യമായ ഉപകരണങ്ങളിൽ നിന്ന് തിരഞ്ഞെടുക്കാനും അവയിൽ ഉള്ളടക്കം പ്രദർശിപ്പിക്കാനും ഇത് നിങ്ങളെ അനുവദിക്കും.";
+NSLocationUsageDescription = "Codex-ത്തിന് ആക്‌സസ് ലഭിച്ചുകഴിഞ്ഞാൽ, വെബ്‌സൈറ്റുകൾക്ക് നിങ്ങളോട് ആക്‌സസ് ചോദിക്കാനാകും.";
+NSMicrophoneUsageDescription = "Codex-ത്തിന് ആക്‌സസ് ലഭിച്ചുകഴിഞ്ഞാൽ, വെബ്‌സൈറ്റുകൾക്ക് നിങ്ങളോട് ആക്‌സസ് ചോദിക്കാനാകും.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Codex-ത്തിന് ആക്‌സസ് ലഭിച്ചുകഴിഞ്ഞാൽ, വെബ്‌സൈറ്റുകൾക്ക് നിങ്ങളോട് ആക്‌സസ് ചോദിക്കാനാകും.";

@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Codex-kortpad";
+CFBundleGetInfoString = "Codex 148.0.7778.179, Kopiereg 2026 Die Codex-outeurs. Alle regte voorbehou.";
+NSAudioCaptureUsageDescription = "Sodra Codex toegang het, sal webwerwe jou kan vra vir toegang.";
+NSBluetoothAlwaysUsageDescription = "Sodra Codex toegang het, sal webwerwe jou kan vra vir toegang.";
+NSBluetoothPeripheralUsageDescription = "Sodra Codex toegang het, sal webwerwe jou kan vra vir toegang.";
+NSCameraUsageDescription = "Sodra Codex toegang het, sal webwerwe jou kan vra vir toegang.";
+NSHumanReadableCopyright = "Kopiereg 2026 Die Codex-outeurs. Alle regte voorbehou.";
+NSLocalNetworkUsageDescription = "Hiermee sal jy uit beskikbare toestelle kan kies en inhoud daarop kan wys.";
+NSLocationUsageDescription = "Sodra Codex toegang het, sal webwerwe jou kan vra vir toegang.";
+NSMicrophoneUsageDescription = "Sodra Codex toegang het, sal webwerwe jou kan vra vir toegang.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Sodra Codex toegang het, sal webwerwe jou kan vra vir toegang.";

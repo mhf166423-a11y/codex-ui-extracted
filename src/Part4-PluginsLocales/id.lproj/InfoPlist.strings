@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Pintasan Codex";
+CFBundleGetInfoString = "Codex 148.0.7778.179, Hak Cipta 2026 Pengarang Codex. Semua hak dilindungi undang-undang.";
+NSAudioCaptureUsageDescription = "Setelah Codex memiliki akses, situs dapat meminta akses dari Anda.";
+NSBluetoothAlwaysUsageDescription = "Setelah Codex memiliki akses, situs dapat meminta akses dari Anda.";
+NSBluetoothPeripheralUsageDescription = "Setelah Codex memiliki akses, situs dapat meminta akses dari Anda.";
+NSCameraUsageDescription = "Setelah Codex memiliki akses, situs dapat meminta akses dari Anda.";
+NSHumanReadableCopyright = "Hak Cipta 2026 Pengarang Codex. Semua hak dilindungi undang-undang.";
+NSLocalNetworkUsageDescription = "Tindakan ini akan memungkinkan Anda memilih dari perangkat yang tersedia dan menampilkan konten di perangkat tersebut.";
+NSLocationUsageDescription = "Setelah Codex memiliki akses, situs dapat meminta akses dari Anda.";
+NSMicrophoneUsageDescription = "Setelah Codex memiliki akses, situs dapat meminta akses dari Anda.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Setelah Codex memiliki akses, situs dapat meminta akses dari Anda.";

@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Codex-snarvei";
+CFBundleGetInfoString = "Codex 148.0.7778.179, Copyright 2026 – The Codex Authors. Med enerett.";
+NSAudioCaptureUsageDescription = "Når Codex har fått tilgang, kan nettsteder spørre deg om tilgang.";
+NSBluetoothAlwaysUsageDescription = "Når Codex har fått tilgang, kan nettsteder spørre deg om tilgang.";
+NSBluetoothPeripheralUsageDescription = "Når Codex har fått tilgang, kan nettsteder spørre deg om tilgang.";
+NSCameraUsageDescription = "Når Codex har fått tilgang, kan nettsteder spørre deg om tilgang.";
+NSHumanReadableCopyright = "Copyright 2026 – The Codex Authors. Med enerett.";
+NSLocalNetworkUsageDescription = "Dette gjør at du kan velge blant tilgjengelige enheter og vise innhold på dem.";
+NSLocationUsageDescription = "Når Codex har fått tilgang, kan nettsteder spørre deg om tilgang.";
+NSMicrophoneUsageDescription = "Når Codex har fått tilgang, kan nettsteder spørre deg om tilgang.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Når Codex har fått tilgang, kan nettsteder spørre deg om tilgang.";

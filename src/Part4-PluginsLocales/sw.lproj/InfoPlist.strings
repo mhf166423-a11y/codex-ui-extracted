@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Njia ya Mkato ya Codex";
+CFBundleGetInfoString = "Codex 148.0.7778.179, Hakimiliki 2026 Wasanidi wa Codex. Haki zote zimehifadhiwa.";
+NSAudioCaptureUsageDescription = "Codex itakapopata idhini, tovuti zitaweza kukuomba idhini ya kufikia.";
+NSBluetoothAlwaysUsageDescription = "Codex itakapopata idhini, tovuti zitaweza kukuomba idhini ya kufikia.";
+NSBluetoothPeripheralUsageDescription = "Codex itakapopata idhini, tovuti zitaweza kukuomba idhini ya kufikia.";
+NSCameraUsageDescription = "Codex itakapopata idhini, tovuti zitaweza kukuomba idhini ya kufikia.";
+NSHumanReadableCopyright = "Hakimiliki 2026 Wasanidi wa Codex. Haki zote zimehifadhiwa.";
+NSLocalNetworkUsageDescription = "Hii itakuruhusu kuchagua kwenye vifaa vinavyopatikana na kuonyesha maudhui kwenye vifaa hivyo.";
+NSLocationUsageDescription = "Codex itakapopata idhini, tovuti zitaweza kukuomba idhini ya kufikia.";
+NSMicrophoneUsageDescription = "Codex itakapopata idhini, tovuti zitaweza kukuomba idhini ya kufikia.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Codex itakapopata idhini, tovuti zitaweza kukuomba idhini ya kufikia.";

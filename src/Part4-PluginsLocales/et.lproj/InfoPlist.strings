@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Codexi otsetee";
+CFBundleGetInfoString = "Codex 148.0.7778.179, Autoriõigus 2026 The Codex Authors. Kõik õigused on kaitstud.";
+NSAudioCaptureUsageDescription = "Kui annate Codexile juurdepääsu, saavad veebisaidid küsida teilt juurdepääsuluba.";
+NSBluetoothAlwaysUsageDescription = "Kui annate Codexile juurdepääsu, saavad veebisaidid küsida teilt juurdepääsuluba.";
+NSBluetoothPeripheralUsageDescription = "Kui annate Codexile juurdepääsu, saavad veebisaidid küsida teilt juurdepääsuluba.";
+NSCameraUsageDescription = "Kui annate Codexile juurdepääsu, saavad veebisaidid küsida teilt juurdepääsuluba.";
+NSHumanReadableCopyright = "Autoriõigus 2026 The Codex Authors. Kõik õigused on kaitstud.";
+NSLocalNetworkUsageDescription = "See võimaldab teil valida saadaolevate seadmete hulgast ja kuvada neis sisu.";
+NSLocationUsageDescription = "Kui annate Codexile juurdepääsu, saavad veebisaidid küsida teilt juurdepääsuluba.";
+NSMicrophoneUsageDescription = "Kui annate Codexile juurdepääsu, saavad veebisaidid küsida teilt juurdepääsuluba.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Kui annate Codexile juurdepääsu, saavad veebisaidid küsida teilt juurdepääsuluba.";

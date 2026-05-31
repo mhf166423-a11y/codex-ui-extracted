@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Atalho do Codex";
+CFBundleGetInfoString = "Codex 148.0.7778.179, Copyright 2026 Autores do Codex. Todos os direitos reservados.";
+NSAudioCaptureUsageDescription = "Assim que o Codex tiver acesso, os sites poderão solicitar acesso.";
+NSBluetoothAlwaysUsageDescription = "Assim que o Codex tiver acesso, os sites poderão solicitar acesso.";
+NSBluetoothPeripheralUsageDescription = "Assim que o Codex tiver acesso, os sites poderão solicitar acesso.";
+NSCameraUsageDescription = "Assim que o Codex tiver acesso, os sites poderão solicitar acesso.";
+NSHumanReadableCopyright = "Copyright 2026 Autores do Codex. Todos os direitos reservados.";
+NSLocalNetworkUsageDescription = "Assim, você pode selecionar os dispositivos disponíveis e mostrar conteúdo neles.";
+NSLocationUsageDescription = "Assim que o Codex tiver acesso, os sites poderão solicitar acesso.";
+NSMicrophoneUsageDescription = "Assim que o Codex tiver acesso, os sites poderão solicitar acesso.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Assim que o Codex tiver acesso, os sites poderão solicitar acesso.";

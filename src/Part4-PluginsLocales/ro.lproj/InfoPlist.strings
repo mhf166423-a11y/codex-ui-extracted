@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Comandă rapidă pentru Codex";
+CFBundleGetInfoString = "Codex 148.0.7778.179, Copyright 2026 The Codex Authors. Toate drepturile rezervate.";
+NSAudioCaptureUsageDescription = "Odată ce Codex are acces, site-urile web îți vor putea solicita accesul.";
+NSBluetoothAlwaysUsageDescription = "Odată ce Codex are acces, site-urile web îți vor putea solicita accesul.";
+NSBluetoothPeripheralUsageDescription = "Odată ce Codex are acces, site-urile web îți vor putea solicita accesul.";
+NSCameraUsageDescription = "Odată ce Codex are acces, site-urile web îți vor putea solicita accesul.";
+NSHumanReadableCopyright = "Copyright 2026 The Codex Authors. Toate drepturile rezervate.";
+NSLocalNetworkUsageDescription = "Astfel, vei putea să selectezi dintre dispozitivele disponibile și să afișezi conținut pe acestea.";
+NSLocationUsageDescription = "Odată ce Codex are acces, site-urile web îți vor putea solicita accesul.";
+NSMicrophoneUsageDescription = "Odată ce Codex are acces, site-urile web îți vor putea solicita accesul.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Odată ce Codex are acces, site-urile web îți vor putea solicita accesul.";

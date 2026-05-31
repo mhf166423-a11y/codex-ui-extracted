@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Codex пречица";
+CFBundleGetInfoString = "Codex 148.0.7778.179, Ауторска права 2026. Аутори Codex-а. Сва права задржана.";
+NSAudioCaptureUsageDescription = "Када Codex добије приступ, веб-сајтови ће моћи да затраже приступ.";
+NSBluetoothAlwaysUsageDescription = "Када Codex добије приступ, веб-сајтови ће моћи да затраже приступ.";
+NSBluetoothPeripheralUsageDescription = "Када Codex добије приступ, веб-сајтови ће моћи да затраже приступ.";
+NSCameraUsageDescription = "Када Codex добије приступ, веб-сајтови ће моћи да затраже приступ.";
+NSHumanReadableCopyright = "Ауторска права 2026. Аутори Codex-а. Сва права задржана.";
+NSLocalNetworkUsageDescription = "То ће вам омогућити да бирате са доступних уређаја и да приказујете садржај на њима.";
+NSLocationUsageDescription = "Када Codex добије приступ, веб-сајтови ће моћи да затраже приступ.";
+NSMicrophoneUsageDescription = "Када Codex добије приступ, веб-сајтови ће моћи да затраже приступ.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Када Codex добије приступ, веб-сајтови ће моћи да затраже приступ.";

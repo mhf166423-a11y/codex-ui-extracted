@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Codex Kısayolu";
+CFBundleGetInfoString = "Codex 148.0.7778.179, Telif Hakkı 2026 The Codex Authors. Tüm hakları saklıdır.";
+NSAudioCaptureUsageDescription = "Codex erişim izni aldıktan sonra, web siteleri de erişim için sizden izin isteyebilecek.";
+NSBluetoothAlwaysUsageDescription = "Codex erişim izni aldıktan sonra, web siteleri de erişim için sizden izin isteyebilecek.";
+NSBluetoothPeripheralUsageDescription = "Codex erişim izni aldıktan sonra, web siteleri de erişim için sizden izin isteyebilecek.";
+NSCameraUsageDescription = "Codex erişim izni aldıktan sonra, web siteleri de erişim için sizden izin isteyebilecek.";
+NSHumanReadableCopyright = "Telif Hakkı 2026 The Codex Authors. Tüm hakları saklıdır.";
+NSLocalNetworkUsageDescription = "Böylece, kullanılabilir cihazlar arasından seçiminizi yapıp içerikleri bu cihazlarda görüntüleyebilirsiniz.";
+NSLocationUsageDescription = "Codex erişim izni aldıktan sonra, web siteleri de erişim için sizden izin isteyebilecek.";
+NSMicrophoneUsageDescription = "Codex erişim izni aldıktan sonra, web siteleri de erişim için sizden izin isteyebilecek.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Codex erişim izni aldıktan sonra, web siteleri de erişim için sizden izin isteyebilecek.";

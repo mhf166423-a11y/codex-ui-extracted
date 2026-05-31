@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Codex saīsne";
+CFBundleGetInfoString = "Codex 148.0.7778.179, Autortiesības 2026 Codex autori. Visas tiesības paturētas.";
+NSAudioCaptureUsageDescription = "Tiklīdz pārlūkam Codex tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.";
+NSBluetoothAlwaysUsageDescription = "Tiklīdz pārlūkam Codex tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.";
+NSBluetoothPeripheralUsageDescription = "Tiklīdz pārlūkam Codex tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.";
+NSCameraUsageDescription = "Tiklīdz pārlūkam Codex tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.";
+NSHumanReadableCopyright = "Autortiesības 2026 Codex autori. Visas tiesības paturētas.";
+NSLocalNetworkUsageDescription = "Tādējādi varēsiet atlasīt kādu no pieejamām ierīcēm un parādīt tajā saturu.";
+NSLocationUsageDescription = "Tiklīdz pārlūkam Codex tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.";
+NSMicrophoneUsageDescription = "Tiklīdz pārlūkam Codex tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Tiklīdz pārlūkam Codex tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.";

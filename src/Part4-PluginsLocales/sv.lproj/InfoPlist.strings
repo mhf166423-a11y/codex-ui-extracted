@@ -1,0 +1,11 @@
+"Chromium Shortcut" = "Codex-genväg";
+CFBundleGetInfoString = "Codex 148.0.7778.179, Upphovsrätt 2026 The Codex Authors. Med ensamrätt.";
+NSAudioCaptureUsageDescription = "När du har gett Codex åtkomst kan webbplatser begära att få åtkomst.";
+NSBluetoothAlwaysUsageDescription = "När du har gett Codex åtkomst kan webbplatser begära att få åtkomst.";
+NSBluetoothPeripheralUsageDescription = "När du har gett Codex åtkomst kan webbplatser begära att få åtkomst.";
+NSCameraUsageDescription = "När du har gett Codex åtkomst kan webbplatser begära att få åtkomst.";
+NSHumanReadableCopyright = "Upphovsrätt 2026 The Codex Authors. Med ensamrätt.";
+NSLocalNetworkUsageDescription = "Detta gör att du kan välja bland tillgängliga enheter och visa innehåll på dem.";
+NSLocationUsageDescription = "När du har gett Codex åtkomst kan webbplatser begära att få åtkomst.";
+NSMicrophoneUsageDescription = "När du har gett Codex åtkomst kan webbplatser begära att få åtkomst.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "När du har gett Codex åtkomst kan webbplatser begära att få åtkomst.";
